@@ -5,7 +5,7 @@
 
 title: Eryk Walczak # Website name
 baseurl: 'https://erykwalczak.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Eryk Walczak' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
